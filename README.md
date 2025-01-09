@@ -2,6 +2,10 @@
 
 This project demonstrate a chat UI where restaurant owners can talk to a chatbot and ask about insights of their business.
 
+Note: responses are hard coded
+
+Live demo: [https://chatbot-ui-for-opentable.netlify.app](https://chatbot-ui-for-opentable.netlify.app)
+
 ## How to run the app locally
 
 1. run `npm install` at the project root
