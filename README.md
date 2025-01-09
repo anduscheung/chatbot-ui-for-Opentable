@@ -1,6 +1,7 @@
 # Chatbot UI
 
 This project demonstrate a chat UI where restaurant owners can talk to a chatbot and ask about insights of their business.
+The project was completed within a 4-hour timeframe.
 
 ## How to run the app locally
 
